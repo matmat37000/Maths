@@ -1,7 +1,11 @@
 ﻿using System;
 using System.IO;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+///
+/// By Mathiol - BORDIER-AUPY Mathieu
+///
+
+namespace MyApp
 {
     internal class Program
     {
